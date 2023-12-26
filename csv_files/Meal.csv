@@ -1,0 +1,261 @@
+item_id,item_name
+1,Egg McMuffin
+2,Egg White Delight
+3,Sausage McMuffin
+4,Sausage McMuffin with Egg
+5,Sausage McMuffin with Egg Whites
+6,Steak & Egg McMuffin
+7,"Bacon, Egg & Cheese Biscuit (Regular Biscuit)"
+8,"Bacon, Egg & Cheese Biscuit (Large Biscuit)"
+9,"Bacon, Egg & Cheese Biscuit with Egg Whites (Regular Biscuit)"
+10,"Bacon, Egg & Cheese Biscuit with Egg Whites (Large Biscuit)"
+11,Sausage Biscuit (Regular Biscuit)
+12,Sausage Biscuit (Large Biscuit)
+13,Sausage Biscuit with Egg (Regular Biscuit)
+14,Sausage Biscuit with Egg (Large Biscuit)
+15,Sausage Biscuit with Egg Whites (Regular Biscuit)
+16,Sausage Biscuit with Egg Whites (Large Biscuit)
+17,Southern Style Chicken Biscuit (Regular Biscuit)
+18,Southern Style Chicken Biscuit (Large Biscuit)
+19,Steak & Egg Biscuit (Regular Biscuit)
+20,"Bacon, Egg & Cheese McGriddles"
+21,"Bacon, Egg & Cheese McGriddles with Egg Whites"
+22,Sausage McGriddles
+23,"Sausage, Egg & Cheese McGriddles"
+24,"Sausage, Egg & Cheese McGriddles with Egg Whites"
+25,"Bacon, Egg & Cheese Bagel"
+26,"Bacon, Egg & Cheese Bagel with Egg Whites"
+27,"Steak, Egg & Cheese Bagel"
+28,Big Breakfast (Regular Biscuit)
+29,Big Breakfast (Large Biscuit)
+30,Big Breakfast with Egg Whites (Regular Biscuit)
+31,Big Breakfast with Egg Whites (Large Biscuit)
+32,Big Breakfast with Hotcakes (Regular Biscuit)
+33,Big Breakfast with Hotcakes (Large Biscuit)
+34,Big Breakfast with Hotcakes and Egg Whites (Regular Biscuit)
+35,Big Breakfast with Hotcakes and Egg Whites (Large Biscuit)
+36,Hotcakes
+37,Hotcakes and Sausage
+38,Sausage Burrito
+39,Hash Brown
+40,Cinnamon Melts
+41,Fruit & Maple Oatmeal
+42,Fruit & Maple Oatmeal without Brown Sugar
+43,Big Mac
+44,Quarter Pounder with Cheese
+45,Quarter Pounder with Bacon & Cheese
+46,Quarter Pounder with Bacon Habanero Ranch
+47,Quarter Pounder Deluxe
+48,Double Quarter Pounder with Cheese
+49,Hamburger
+50,Cheeseburger
+51,Double Cheeseburger
+52,Bacon Clubhouse Burger
+53,McDouble
+54,Bacon McDouble
+55,Daily Double
+56,Jalapeño Double
+57,McRib
+58,Premium Crispy Chicken Classic Sandwich
+59,Premium Grilled Chicken Classic Sandwich
+60,Premium Crispy Chicken Club Sandwich
+61,Premium Grilled Chicken Club Sandwich
+62,Premium Crispy Chicken Ranch BLT Sandwich
+63,Premium Grilled Chicken Ranch BLT Sandwich
+64,Bacon Clubhouse Crispy Chicken Sandwich
+65,Bacon Clubhouse Grilled Chicken Sandwich
+66,Southern Style Crispy Chicken Sandwich
+67,McChicken
+68,Bacon Cheddar McChicken
+69,Bacon Buffalo Ranch McChicken
+70,Buffalo Ranch McChicken
+71,Premium McWrap Chicken & Bacon (Crispy Chicken)
+72,Premium McWrap Chicken & Bacon (Grilled Chicken)
+73,Premium McWrap Chicken & Ranch (Crispy Chicken)
+74,Premium McWrap Chicken & Ranch (Grilled Chicken)
+75,Premium McWrap Southwest Chicken (Crispy Chicken)
+76,Premium McWrap Southwest Chicken (Grilled Chicken)
+77,Premium McWrap Chicken Sweet Chili (Crispy Chicken)
+78,Premium McWrap Chicken Sweet Chili (Grilled Chicken)
+79,Chicken McNuggets (4 piece)
+80,Chicken McNuggets (6 piece)
+81,Chicken McNuggets (10 piece)
+82,Chicken McNuggets (20 piece)
+83,Chicken McNuggets (40 piece)
+84,Filet-O-Fish
+85,Premium Bacon Ranch Salad (without Chicken)
+86,Premium Bacon Ranch Salad with Crispy Chicken
+87,Premium Bacon Ranch Salad with Grilled Chicken
+88,Premium Southwest Salad (without Chicken)
+89,Premium Southwest Salad with Crispy Chicken
+90,Premium Southwest Salad with Grilled Chicken
+91,Chipotle BBQ Snack Wrap (Crispy Chicken)
+92,Chipotle BBQ Snack Wrap (Grilled Chicken)
+93,Honey Mustard Snack Wrap (Crispy Chicken)
+94,Honey Mustard Snack Wrap (Grilled Chicken)
+95,Ranch Snack Wrap (Crispy Chicken)
+96,Ranch Snack Wrap (Grilled Chicken)
+97,Small French Fries
+98,Medium French Fries
+99,Large French Fries
+100,Kids French Fries
+101,Side Salad
+102,Apple Slices
+103,Fruit 'n Yogurt Parfait
+104,Baked Apple Pie
+105,Chocolate Chip Cookie
+106,Oatmeal Raisin Cookie
+107,Kids Ice Cream Cone
+108,Hot Fudge Sundae
+109,Hot Caramel Sundae
+110,Strawberry Sundae
+111,Coca-Cola Classic (Small)
+112,Coca-Cola Classic (Medium)
+113,Coca-Cola Classic (Large)
+114,Coca-Cola Classic (Child)
+115,Diet Coke (Small)
+116,Diet Coke (Medium)
+117,Diet Coke (Large)
+118,Diet Coke (Child)
+119,Dr Pepper (Small)
+120,Dr Pepper (Medium)
+121,Dr Pepper (Large)
+122,Dr Pepper (Child)
+123,Diet Dr Pepper (Small)
+124,Diet Dr Pepper (Medium)
+125,Diet Dr Pepper (Large)
+126,Diet Dr Pepper (Child)
+127,Sprite (Small)
+128,Sprite (Medium)
+129,Sprite (Large)
+130,Sprite (Child)
+131,1% Low Fat Milk Jug
+132,Fat Free Chocolate Milk Jug
+133,Minute Maid 100% Apple Juice Box
+134,Minute Maid Orange Juice (Small)
+135,Minute Maid Orange Juice (Medium)
+136,Minute Maid Orange Juice (Large)
+137,Dasani Water Bottle
+138,Iced Tea (Small)
+139,Iced Tea (Medium)
+140,Iced Tea (Large)
+141,Iced Tea (Child)
+142,Sweet Tea (Small)
+143,Sweet Tea (Medium)
+144,Sweet Tea (Large)
+145,Sweet Tea (Child)
+146,Coffee (Small)
+147,Coffee (Medium)
+148,Coffee (Large)
+149,Latte (Small)
+150,Latte (Medium)
+151,Latte (Large)
+152,Caramel Latte (Small)
+153,Caramel Latte (Medium)
+154,Caramel Latte (Large)
+155,Hazelnut Latte (Small)
+156,Hazelnut Latte (Medium)
+157,Hazelnut Latte (Large)
+158,French Vanilla Latte (Small)
+159,French Vanilla Latte (Medium)
+160,French Vanilla Latte (Large)
+161,Latte with Sugar Free French Vanilla Syrup (Small)
+162,Latte with Sugar Free French Vanilla Syrup (Medium)
+163,Latte with Sugar Free French Vanilla Syrup (Large)
+164,Nonfat Latte (Small)
+165,Nonfat Latte (Medium)
+166,Nonfat Latte (Large)
+167,Nonfat Caramel Latte (Small)
+168,Nonfat Caramel Latte (Medium)
+169,Nonfat Caramel Latte (Large)
+170,Nonfat Hazelnut Latte (Small)
+171,Nonfat Hazelnut Latte (Medium)
+172,Nonfat Hazelnut Latte (Large)
+173,Nonfat French Vanilla Latte (Small)
+174,Nonfat French Vanilla Latte (Medium)
+175,Nonfat French Vanilla Latte (Large)
+176,Nonfat Latte with Sugar Free French Vanilla Syrup (Small)
+177,Nonfat Latte with Sugar Free French Vanilla Syrup (Medium)
+178,Nonfat Latte with Sugar Free French Vanilla Syrup (Large)
+179,Mocha (Small)
+180,Mocha (Medium)
+181,Mocha (Large)
+182,Mocha with Nonfat Milk (Small)
+183,Mocha with Nonfat Milk (Medium)
+184,Mocha with Nonfat Milk (Large)
+185,Caramel Mocha (Small)
+186,Caramel Mocha (Medium)
+187,Caramel Mocha (Large)
+188,Nonfat Caramel Mocha (Small)
+189,Nonfat Caramel Mocha (Medium)
+190,Nonfat Caramel Mocha (Large)
+191,Hot Chocolate (Small)
+192,Hot Chocolate (Medium)
+193,Hot Chocolate (Large)
+194,Hot Chocolate with Nonfat Milk (Small)
+195,Hot Chocolate with Nonfat Milk (Medium)
+196,Hot Chocolate with Nonfat Milk (Large)
+197,Regular Iced Coffee (Small)
+198,Regular Iced Coffee (Medium)
+199,Regular Iced Coffee (Large)
+200,Caramel Iced Coffee (Small)
+201,Caramel Iced Coffee (Medium)
+202,Caramel Iced Coffee (Large)
+203,Hazelnut Iced Coffee (Small)
+204,Hazelnut Iced Coffee (Medium)
+205,Hazelnut Iced Coffee (Large)
+206,French Vanilla Iced Coffee (Small)
+207,French Vanilla Iced Coffee (Medium)
+208,French Vanilla Iced Coffee (Large)
+209,Iced Coffee with Sugar Free French Vanilla Syrup (Small)
+210,Iced Coffee with Sugar Free French Vanilla Syrup (Medium)
+211,Iced Coffee with Sugar Free French Vanilla Syrup (Large)
+212,Iced Mocha (Small)
+213,Iced Mocha (Medium)
+214,Iced Mocha (Large)
+215,Iced Mocha with Nonfat Milk (Small)
+216,Iced Mocha with Nonfat Milk (Medium)
+217,Iced Mocha with Nonfat Milk (Large)
+218,Iced Caramel Mocha (Small)
+219,Iced Caramel Mocha (Medium)
+220,Iced Caramel Mocha (Large)
+221,Iced Nonfat Caramel Mocha (Small)
+222,Iced Nonfat Caramel Mocha (Medium)
+223,Iced Nonfat Caramel Mocha (Large)
+224,Frappé Mocha (Small)
+225,Frappé Mocha (Medium)
+226,Frappé Mocha (Large)
+227,Frappé Caramel (Small)
+228,Frappé Caramel (Medium)
+229,Frappé Caramel (Large)
+230,Frappé Chocolate Chip (Small)
+231,Frappé Chocolate Chip (Medium)
+232,Frappé Chocolate Chip (Large)
+233,Blueberry Pomegranate Smoothie (Small)
+234,Blueberry Pomegranate Smoothie (Medium)
+235,Blueberry Pomegranate Smoothie (Large)
+236,Strawberry Banana Smoothie (Small)
+237,Strawberry Banana Smoothie (Medium)
+238,Strawberry Banana Smoothie (Large)
+239,Mango Pineapple Smoothie (Small)
+240,Mango Pineapple Smoothie (Medium)
+241,Mango Pineapple Smoothie (Large)
+242,Vanilla Shake (Small)
+243,Vanilla Shake (Medium)
+244,Vanilla Shake (Large)
+245,Strawberry Shake (Small)
+246,Strawberry Shake (Medium)
+247,Strawberry Shake (Large)
+248,Chocolate Shake (Small)
+249,Chocolate Shake (Medium)
+250,Chocolate Shake (Large)
+251,Shamrock Shake (Medium)
+252,Shamrock Shake (Large)
+253,McFlurry with M&M’s Candies (Small)
+254,McFlurry with M&M’s Candies (Medium)
+255,McFlurry with M&M’s Candies (Snack)
+256,McFlurry with Oreo Cookies (Small)
+257,McFlurry with Oreo Cookies (Medium)
+258,McFlurry with Oreo Cookies (Snack)
+259,McFlurry with Reese's Peanut Butter Cups (Medium)
+260,McFlurry with Reese's Peanut Butter Cups (Snack)
